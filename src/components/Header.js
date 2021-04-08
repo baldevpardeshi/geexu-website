@@ -22,6 +22,9 @@ const Header = () =>  (
               <li className="nav-item list-none">
                 <NavLink exact className="nav-link" activeClassName="active" to="/contact">Contact Us </NavLink>
               </li>
+              <li>
+                  button
+              </li>
            </ul>
        </nav>
     </div>
