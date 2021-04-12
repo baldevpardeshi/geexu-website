@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import '../App.scss';
 const Career = () => (
       <div className="main">
